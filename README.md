@@ -18,3 +18,5 @@ Additionally, the analysis includes:
     - choice of the design language and its influences in the report
 
 
+## reference
+https://www.kaggle.com/tahazafar/steel-plate-faults-data-analysis
