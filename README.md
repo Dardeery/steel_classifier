@@ -6,11 +6,13 @@ Classical supervised machine learning problem of 6622 samples and 6 different fe
 
 ## data analysis: 
 1. use this data to train a classifier. 
+
 2. check autocorrelation in the model,as it has been suspected that there is a correlation between training and test data. 
 3. create a visualization dashboard (Report) with the goal of understanding, exploring and analyzing the data using appropriate diagrams, charts and indicators.
 
 
 Additionally, the analysis includes:
+
     - process of thought, i.e., how did you come to your solution?
     - properties of the artificially generated data set
     - strengths of the used method: why does it produce a reasonable result?
@@ -19,6 +21,5 @@ Additionally, the analysis includes:
     
    
 ## main results
-
 ## reference
 https://www.kaggle.com/tahazafar/steel-plate-faults-data-analysis
